@@ -11,3 +11,5 @@ wheels/
 
 # Local secrets
 .env
+
+data/
